@@ -4,7 +4,7 @@
 This is made by me from scratch in order to demonstrate how to handle and build a gulp tasks. It's nice to understand gulp settings with this simple gulp settings. I try to keep this as possible as I can.
 
 ## Installation
-open the terminal app and type command lines below.  
+Open the terminal app and type the command lines below.  
 "MyApp" can be change depending on your preference.
 ```
 git clone https://github.com/fivestarHoshi/gulp_tasks.git MyApp
