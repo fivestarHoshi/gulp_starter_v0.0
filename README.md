@@ -15,3 +15,6 @@ npm run gulp
 ## Features
 - browserSync
 
+
+## Usage
+html files in the asset directory are live reloaded every time you save the files by browserSync.
