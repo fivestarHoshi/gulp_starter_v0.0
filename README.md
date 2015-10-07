@@ -1,7 +1,7 @@
 # gulp_tasks
 
 ## A simple, easy to understand gulp task for biginners.  
-This is made by me from scratch in order to demonstrate how to handle a gulp task. It's nice to understand gulp settings with this simple gulp settings. I try to keep this as possible as I can.
+This is made by me from scratch in order to demonstrate how to handle a gulp task. This allows you to ONLY live reload HTML files that you are editing. I think this is good asa a starting point. Once you get accustomed with gulp manners, you can develop this more usable.
 
 ## Installation
 Open the terminal app and type the command lines below.  
