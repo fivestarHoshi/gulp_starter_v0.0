@@ -1,0 +1,23 @@
+{
+  "name": "gulp_tasks",
+  "version": "1.0.0",
+  "description": "## A simple, easy to understand gulp task for biginners.   This is made by me from scratch in order to demonstrate how to handle a gulp task. It's nice to understand gulp settings with this simple gulp settings. I try to keep this as possible as I can.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fivestarHoshi/gulp_tasks.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fivestarHoshi/gulp_tasks/issues"
+  },
+  "homepage": "https://github.com/fivestarHoshi/gulp_tasks",
+  "devDependencies": {
+    "browser-sync": "^2.9.10",
+    "gulp": "^3.9.0"
+  }
+}
