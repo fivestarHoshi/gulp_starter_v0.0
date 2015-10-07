@@ -11,7 +11,6 @@ git clone https://github.com/fivestarHoshi/gulp_tasks.git MyApp
 cd MyApp
 npm install
 npm run gulp
-
 ```
 ## Features
 - browserSync
