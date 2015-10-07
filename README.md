@@ -19,4 +19,4 @@ npm run gulp
 - browserSync
 
 ## Usage
-Every time you save html files in assets directory browserSync refresh the browser.
+Every time you save html files in assets directory browserSync refresh the browser state.
