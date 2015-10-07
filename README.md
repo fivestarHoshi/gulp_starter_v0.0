@@ -7,7 +7,7 @@ This is made by me from scratch in order to demonstrate how to handle a gulp tas
 - [node.js](https://nodejs.org/en/)
 
 ## Installation
-Open the terminal app and type the command lines below.  
+Launch the terminal app and type the command lines below.  
 "MyApp" can be change depending on your preference.
 ```
 git clone https://github.com/fivestarHoshi/gulp_tasks.git MyApp
