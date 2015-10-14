@@ -1,14 +1,14 @@
-# gulp_tasks
+# gulp minimum task
 
 ## A simple, easy to understand gulp task for biginners.  
-This is made by me from scratch in order to demonstrate how to handle a gulp task. This allows you to ONLY live reload HTML files that you are editing. I think this is good as a starting point. Once you get accustomed with gulp manners, you can develop this more usable.
+This is made by me from scratch in order to demonstrate how to handle a gulp task. This allows you to ONLY live reload HTML files that you are editing. As a starting point, this task is simple and easy enough. Once you get accustomed with gulp manners, you can develop this more usable.
 
 ## Requirement
 - [node.js](https://nodejs.org/en/)
 
 ## Installation
 Launch the terminal app and type the command lines below.  
-"MyApp" can be change depending on your preference.
+"MyApp" can be replaced depending on your preference.
 ```
 git clone https://github.com/fivestarHoshi/gulp_tasks.git MyApp
 cd MyApp
